@@ -1,4 +1,3 @@
-# .github
 <h1 align="center">Csá! Mi vagyunk a Celluksz Studios!</h1>
 <h3 align="center">Hülyék vagyunk. Perpillanat egy nagyon jó (ami azt jelenti hogy kurva jó) GTA killert csinálunk (csinálunknál azt értem hogy Levi).</h3>
 
