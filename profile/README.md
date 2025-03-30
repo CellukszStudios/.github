@@ -6,7 +6,7 @@
 <div align="center">
   <h3>Elérhetősegek:</h3>
   <p>A kurva anyádat nem</p>
-  <p>De @Artife10 és @levi_2222 (pls ne zaklass)</p>
+  <p>De @artife10 és @levi_2222 dcn (pls ne zaklass)</p>
 </div>
 
 <h3 align="center">Cuccok amiket használunk:</h3>
