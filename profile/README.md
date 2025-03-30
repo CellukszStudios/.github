@@ -9,12 +9,13 @@
   <p>De @Artife10 és @levi_2222 (pls ne zaklass)</p>
 </div>
 
-<div align="center">
-  <h3>Cuccok amiket használunk:</h3>
-  
-  <div style="margin: 20px 0;">
-    <h4>Engine-ek:</h4>
-    <div style="display: flex; justify-content: center; gap: 30px; margin: 15px 0;">
+<h3 align="center">Cuccok amiket használunk:</h3>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 1200px; margin: 0 auto;">
+  <!-- Engine-ek -->
+  <div style="flex: 1; min-width: 250px; margin: 10px;">
+    <h4 align="center">Engine-ek</h4>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
       <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" alt="godot" width="80" height="80"/>
         <p>Godot</p>
@@ -26,9 +27,10 @@
     </div>
   </div>
 
-  <div style="margin: 20px 0;">
-    <h4>Eszközök:</h4>
-    <div style="display: flex; justify-content: center; gap: 30px; margin: 15px 0;">
+  <!-- Eszközök -->
+  <div style="flex: 1; min-width: 250px; margin: 10px;">
+    <h4 align="center">Eszközök</h4>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="80" height="80"/>
         <p>Blender</p>
@@ -40,9 +42,10 @@
     </div>
   </div>
 
-  <div style="margin: 20px 0;">
-    <h4>Egyéb dolgok:</h4>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 800px; margin: 15px auto;">
+  <!-- Egyéb dolgok -->
+  <div style="flex: 2; min-width: 250px; margin: 10px;">
+    <h4 align="center">Egyéb dolgok</h4>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
         <p>Bootstrap</p>
