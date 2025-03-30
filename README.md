@@ -21,7 +21,7 @@ De @Artife10 és @levi_2222 (pls ne zaklass)
   <li><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="60" height="60"/></a> GitHub</li>
 </ul>
 
-<h4>Egyéb technológiák:</h4>
+<hr>
 <ul>
   <li><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a> Bootstrap</li>
   <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a> C#</li>
