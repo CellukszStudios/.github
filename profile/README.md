@@ -11,7 +11,7 @@
 
 <h3 align="center">Cuccok amiket használunk:</h3>
 
-<table>
+<table align="center">
   <tr>
     <th>ENGINES</th>
     <th>PROGRAMS</th>
