@@ -3,26 +3,26 @@
 
 - ⚡ Fun fact **I hate myself**
 
-<h3 align="left">Elérhetősegek:</h3>
+<h3 allign="center">Elérhetősegek:</h3>
 A kurva anyádat nem
 De @Artife10 és @levi_2222 (pls ne zaklass)
 
-<h3 align="left">Cuccok amiket használunk:</h3>
+<h3 allign="center">Cuccok amiket használunk:</h3>
 
-<h4>Engine-ek:</h4>
-<ul>
+<h4 allign="center">Engine-ek:</h4>
+<ul allign="center">
   <li><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" alt="godot" width="60" height="60"/></a> Godot</li>
   <li><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/></a> Unity</li>
 </ul>
 
-<h4>Eszközök:</h4>
+<h4 allign="center">Eszközök:</h4>
 <ul>
   <li><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/></a> Blender</li>
   <li><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="60" height="60"/></a> GitHub</li>
 </ul>
 
 <hr>
-<ul>
+<ul allign="center">
   <li><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a> Bootstrap</li>
   <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a> C#</li>
   <li><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a> CSS3</li>
