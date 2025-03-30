@@ -1,8 +1,6 @@
 <h1 align="center">Csá! Mi vagyunk a Celluksz Studios!</h1>
 <h3 align="center">Hülyék vagyunk. Perpillanat egy nagyon jó (ami azt jelenti hogy kurva jó) GTA killert csinálunk (csinálunknál azt értem hogy Levi).</h3>
 
-- ⚡ Fun fact **I hate myself**
-
 <h3 allign="center">Elérhetősegek:</h3>
 A kurva anyádat nem
 De @Artife10 és @levi_2222 (pls ne zaklass)
