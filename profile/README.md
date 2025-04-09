@@ -33,5 +33,9 @@
     <td></td>
     <td>Pixelorama</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Premiere Pro(chlkrisz <3)</td>
+  </tr>
 </table>
 
