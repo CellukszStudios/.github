@@ -1,7 +1,7 @@
 <h1 align="center">Csá! Mi vagyunk a Celluksz Studios!</h1>
 <h3 align="center">Hülyék vagyunk. Perpillanat egy nagyon jó (ami azt jelenti hogy kurva jó) GTA killert csinálunk (csinálunknál azt értem hogy Levi).</h3>
 
-<p align="center">⚡ Fun fact: <strong>I hate myself</strong></p>
+<p align="center">⚡ Fun fact: <strong>Rohadtul rodeó vagyok!</strong></p>
 
 <div align="center">
   <h3>Elérhetősegek:</h3>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>Premiere Pro(chlkrisz <3)</td>
+    <td>Premiere Pro</td>
   </tr>
 </table>
 
